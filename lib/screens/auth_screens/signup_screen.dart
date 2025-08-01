@@ -15,7 +15,7 @@ class SignUpScreen extends StatelessWidget {
             child: Column(
               crossAxisAlignment: CrossAxisAlignment.start,
               children: [
-                const SizedBox(height: 40),
+                const SizedBox(height: 50),
                 const Center(
                   child: Text(
                     'Superior VA',
